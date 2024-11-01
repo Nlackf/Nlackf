@@ -1,0 +1,13 @@
+BotToken = "MTEzMjg0MDY4NzYxNjkyMTcyMA.G9XLX3.IETpveqvUkYDLbbcGr10l5HlRJ-oE_jTwMdg9o" # 테스트봇 토큰
+SSLCertPem = r"" # SSL인증서 .pem 파일 경로 (필수아님)
+SSLCertKeyPem = r"" # SSL인증서 .pem 키 파일 경로 (필수아님)
+WebPort = 80 #nginx 포트포워딩 가능합니다. flask가 켜잘 포트를 넣어주세요.
+BotSuperAdminID = [749775283959365763,1285442190109184091] # 복구봇 최고괸리자 ID
+BotClientId = 1132840687616921720 # 복구봇 디스코드 개발자 센터 Oauth2 탭에 들어가면 있는 CLIENT ID
+BotClientSec = "wgoeeNhD8wK2qU4vXQd4OdsWYENxerlm" #복구봇 디스코드 개발자 센터 Oauth2 탭에 들어가면 있는 CLIENT SECRET
+Domain = "http://nalack.xyz" #바꾸세요
+api_endpoint = "https://discord.com/api" #건드리지 말기
+DB_Path = r"/Users/jaewonkim/Downloads/psrbot_165_csv_production/db" # 데이터베이스 폴더 경로 (폴더만 생성하고 그 경로 입력)
+hCaptcha_SiteKey = "" #직접 생성하세요 (필수아님)
+hCaptcha_Secret = "" #직접 생성하세요 (필수아님)
+DefaultPfp = "https://e1.pngegg.com/pngimages/373/977/png-clipart-discord-for-macos-white-and-blue-logo-art.png"
